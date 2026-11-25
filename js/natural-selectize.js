@@ -1,0 +1,3 @@
+class NaturalSelectize {
+  constructor(select) {}
+}
